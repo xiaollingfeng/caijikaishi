@@ -1,0 +1,26 @@
+You are using pip version 9.0.1, however version 20.1.1 is available.
+You should consider upgrading via the 'python -m pip install --upgrade pip' command.
+
+
+You are using pip version 9.0.1, however version 20.1.1 is available.
+You should consider upgrading via the 'python -m pip install --upgrade pip' command.
+-i  https://pypi.doubanio.com/simple/
+
+pip install tensorflow==0.7
+pip install keras -i https://pypi.douban.com/simple --trusted-host=pypi.douban.com/simple
+pip install keras==2.0.6 -i https://pypi.doubanio.com/simple
+
+
+Tensorflow 1.4.0 兼容 Keras 2.0.8.不然容易出错
+pip install Keras==2.0.8 -i https://pypi.doubanio.com/simple
+
+#coding=utf-8
+
+
+OTX-HVB37-64
+
+
+W6L-2C3TP-TZ
+
+
+https://zhuanlan.zhihu.com/p/55518544?from_voters_page=true
